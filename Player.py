@@ -86,7 +86,7 @@ playerTest = Player(
 print("Thêm dữ liệu thành công")
 
 # Test cập nhật thông tin player
-print(Player.update_player(2, {"name": "Nguyễn Văn CC" ,"balance": 99900999}))
+print(Player.update_player(1, {"name": "Nguyễn Văn cccccccccc" ,"balance": 999999999999999}))
 
 # Test xóa player
 # print(Player.delete_player(2))
